@@ -1,13 +1,13 @@
-#ACC（Adaptive Cruise control）自适应巡航控制
-#AEB（Autonomous Emergency Braking）自动紧急制动
-#ADB（Adaptive Driving Beam）自适应大灯
-#PDS（Pedestrain Detection System）行人检测
-#RSR（Road Sign Recongnition）交通信号及标志牌识别
-#BSM（Blind Spot Monitoring）盲点监测
-#DMS（Driver Monitoring System）驾驶员注意力检测
-#FCW（Forward Collision Warning）前方碰撞预警
-#LDW（Lane Departure Warning）车道偏离预警
-#HUD（Head-Up Display）抬头显示器
-#NVS（Night Vision System）汽车夜视系统（红外摄像机+前风挡光显系统）
-#PA（Parking Assistance）泊车辅助
-#SVC（Surround View Cameras）全景泊车停车辅助系统
+#ACC	Adaptive Cruise control
+#AEB	Autonomous Emergency Braking	
+#ADB	Adaptive Driving Beam	
+#PDS	Pedestrain Detection System	
+#RSR	Road Sign Recongnition	
+#BSM	Blind Spot Monitoring	
+#DMS	Driver Monitoring System	
+#FCW	Forward Collision Warning	
+#LDW	Lane Departure Warning	
+#HUD	Head-Up Display	
+#NVS	Night Vision System	
+#PA	Parking Assistance	
+#SVC	Surround View Cameras	
